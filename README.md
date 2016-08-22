@@ -168,7 +168,7 @@
 		$tpl->set( '{foto}', $noimage );
 	}
  
-#ШАГ 4 								    
+ #ШАГ 4 								    
 
   найти это код ...														  
   
@@ -180,7 +180,7 @@
 	$noimage = $noimage->run_noimage();
 	$tpl->set( '{foto}', $noimage );
  
- #ШАГ 5 								  
+#ШАГ 5 								  
 
   открыть файл engine/ajax/profile.php						     		  
   
@@ -192,7 +192,7 @@
     
   require_once ENGINE_DIR . '/classes/noimage.class.php';				  
  
- #ШАГ 6 								  
+#ШАГ 6 								  
   
   найти это код ...			  											  
   
@@ -208,7 +208,7 @@
 		$tpl->set( '{foto}', $noimage );	
 	}
  
- #ШАГ 7 								  
+#ШАГ 7 								  
 
   открыть файл engine/classes/comments.class.php				     		  
   
@@ -228,7 +228,7 @@
 	  $tpl->set( '{foto}', $noimage );	
 	}
  
- #ШАГ 8 								  
+#ШАГ 8 								  
  
   открыть файл engine/modules/pm.php			     						  
   
