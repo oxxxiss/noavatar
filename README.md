@@ -2,7 +2,7 @@
 
 #CОДЕРЖИМОЕ
 1. <a href="#ОПИСАНИЕ">Описание</a>
-2. <a href="/oxxxiss/noavatar.wiki.git">ИНСТРУКЦИЯ API</a>
+2. <a href="https://github.com/oxxxiss/noavatar.wiki.git">ИНСТРУКЦИЯ API</a>
 3. <a href="#УСТАНОВКА">УСТАНОВКА</a>
 
 #ОПИСАНИЕ                                   
