@@ -16,11 +16,11 @@
  
   Залейте все файлы на сервер 											  
 
-  открыть файл engine/modules/profile.php								  
+	 открыть файл engine/modules/profile.php								  
   
   найти это код ...														  
   
-  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
+	  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
     
   заменить на это 														  
 
@@ -38,7 +38,7 @@
   
   найти это код ...														  
   
-  require_once ENGINE_DIR . '/modules/functions.php';					  
+	 require_once ENGINE_DIR . '/modules/functions.php';					  
     
   ниже ставить это 														  
 
@@ -50,7 +50,7 @@
 
   найти это код ...														  
   
-  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
+  	else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
     
   заменить на это 														  
 
@@ -65,7 +65,7 @@
 
   найти это код ...														  
   
-  $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );				  
+	 $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );				  
     
   заменить на это 														  
 
@@ -75,21 +75,21 @@
  
 ##ШАГ 5 								  
 
-  открыть файл engine/ajax/profile.php						     		  
+	  открыть файл engine/ajax/profile.php						     		  
   
   найти это код ...			  											  
   
-  require_once ENGINE_DIR . '/classes/mysql.php';						  
+	  require_once ENGINE_DIR . '/classes/mysql.php';						  
     
   ниже ставить это 														  
     
-  require_once ENGINE_DIR . '/classes/noimage.class.php';				  
+	 require_once ENGINE_DIR . '/classes/noimage.class.php';				  
  
 ##ШАГ 6 								  
   
   найти это код ...			  											  
   
-  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
+	  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
     
   заменить на это 														  
 
@@ -103,11 +103,11 @@
  
 ##ШАГ 7 								  
 
-  открыть файл engine/classes/comments.class.php				     		  
+	 открыть файл engine/classes/comments.class.php				     		  
   
   найти это код ...			  											  
   
-  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
+	  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
     
   заменить на это 														  
 
@@ -123,11 +123,11 @@
  
 ##ШАГ 8 								  
  
-  открыть файл engine/modules/pm.php			     						  
+	 открыть файл engine/modules/pm.php			     						  
   
   найти это код ...														  
   
-  else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
+  	else $tpl->set( '{foto}', "{THEME}/dleimages/noavatar.png" );			  
     
   заменить на это 														  
 
